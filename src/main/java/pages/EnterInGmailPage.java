@@ -16,6 +16,6 @@ public class EnterInGmailPage extends BasePage{
         log.info("Enter into Gmail account  manager");
         WaitUtils.forVisibilityOf(gotItButton);
         gotItButton.click();
-    };
+    }
 
 }
