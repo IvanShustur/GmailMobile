@@ -1,0 +1,11 @@
+08:53:26 [INFO ] p.EnterInGmailPage:16 - Enter into Gmail account  manager
+08:53:26 [INFO ] p.AccountsGmailPage:16 - Open Gmail base page
+08:53:28 [INFO ] p.BaseGmailPage:30 - Click on creating new letter button
+08:53:32 [INFO ] p.NewLetterPage:29 - Type recipient into the field
+08:53:34 [INFO ] p.NewLetterPage:37 - Type subject into the field
+08:53:36 [INFO ] p.NewLetterPage:42 - Write message
+08:53:37 [INFO ] p.NewLetterPage:48 - Send letter
+08:53:37 [INFO ] p.BaseGmailPage:36 - Open navigation panel
+08:53:40 [INFO ] p.BaseGmailPage:23 - Open sent messages folder
+08:53:41 [INFO ] p.SentMessagesPage:22 - Open last message
+08:53:46 [INFO ] a.a.SubjectLetterAsserter:12 - Verify that subjects are equals
